@@ -14,7 +14,7 @@ Esta página depende de algumas bibliotecas para funcionar:
 
 Bootstrap: 4.5.3 Font Awesome: 5.15.2 OpenWeather API: https://openweathermap.org/api
 
-Entra: https://html-starter-woad-pi.vercel.app/
+LINK: https://html-starter-woad-pi.vercel.app/
 
 Tecnologias utilizadas:
 
