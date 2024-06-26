@@ -1,14 +1,23 @@
----
-name: HTML Starter
-slug: html-starter-with-analytics
-description: HTML5 template with analytics and advanced routing configuration.
-deployUrl: https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/html&project-name=html
-relatedTemplates:
-  - nextjs-boilerplate
----
+A página consiste em um elemento "card" com um campo de entrada para pesquisar por uma cidade e uma seção para exibir as informações do tempo da cidade selecionada. A seção de exibição das informações inclui o nome da cidade, a data, um ícone que representa o clima, a temperatura atual, a descrição do clima e as temperaturas máxima e mínima.
 
-# HTML Starter
+Para utilizar a página, basta seguir os seguintes passos:
 
-This is a starter HTML5 templates which is configured with Vercel Analytics (through a `script` tag), advanced routing with [Vercel Edge Middleware](https://vercel.com/docs/concepts/functions/edge-middleware), as well as some basic styles
+Clone o repositório ou baixe o código-fonte.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/html&project-name=html)
+Abra o arquivo index.html no seu navegador web.
+
+Digite o nome de uma cidade no campo de entrada de pesquisa e pressione Enter ou clique no botão de pesquisa.
+
+A previsão do tempo da cidade será exibida na página.
+
+Esta página depende de algumas bibliotecas para funcionar:
+
+Bootstrap: 4.5.3 Font Awesome: 5.15.2 OpenWeather API: https://openweathermap.org/api
+
+Tecnologias utilizadas:
+
+html
+
+javascript
+
+css
